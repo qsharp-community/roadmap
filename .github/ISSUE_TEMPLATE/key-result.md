@@ -1,7 +1,7 @@
 ---
 name: Key Result
 about: Create a new tracked Key Result
-title: "[KR#]: Description"
+title: KR Description
 labels: ''
 assignees: ''
 
